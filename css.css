@@ -1,1 +1,76 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+body {
+    text-align: center;
+    background-color: #1b4554;
+    font-family: 'Playfair Display', serif;
+}
 
+#title {
+    font-family: "Raleway", Helvetica, sans serif;
+    font-size: 39px;
+    min-width: 320px;
+    font-weight: bold;
+}
+
+#description {
+    font-size: 25px;
+    min-width: 320px;
+    font-weight: bold;
+}
+
+#label {
+    font-size: 22px;
+    text-align: center;
+}
+
+.pq {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+}
+
+#name {
+    position: relative;
+    left: 10px;
+}
+
+#email {
+    position: relative;
+    left: 10px;
+}
+
+#number {
+    position: relative;
+    left: 20px;
+}
+
+.dropdown {
+    height: 35px;
+    width: 140px;
+    padding: 5px;
+    margin: 10px;
+    margin-top: 15px;
+    border: 1px solid #c0c0c0;
+    border-radius: 2px;
+}
+
+.radio-buttons,
+.checkbox {
+    position: relative;
+    left: 50px;
+    margin-left: 10px;
+    display: block;
+    padding-bottom: 10px;
+}
+
+#submit {
+    background-color: #59ace0;
+    border-radius: 4px;
+    color: white;
+    font-size: 1em;
+    height: 40px;
+    width: 96px;
+    margin: 10px;
+    border: 0px solid;
+}
