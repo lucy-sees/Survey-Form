@@ -21,13 +21,11 @@
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Portfolio: setup and mobile first] <a name="about-project"></a>
+# 📖 Survey Form <a name="about-project"></a>
 
-**[Portfolio: setup and mobile first]** A captivating Survey Form powered by HTML and CSS.
+**Survey Form** A captivating Survey Form powered by HTML and CSS.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -40,7 +38,6 @@
     <li><a href="https://www.css3.com/">CSS</a></li>
   </ul>
 </details>
-
 ### Key Features <a name="key-features"></a>
 
 -Displays a survey form.
@@ -103,6 +100,6 @@ If you like this project give it a star!!!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/lucy-sees/Webforlio/blob/d3ad7276290d3f8ca737ca792c92f18fed58845c/LICENSE) licensed.
+This project is [MIT](https://github.com/lucy-sees/Survey-Form/blob/c46a9134fd2b2ca75893d60b543ce6c4c5241233/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
