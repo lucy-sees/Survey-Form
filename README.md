@@ -21,8 +21,6 @@
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 # 📖 Survey Form <a name="about-project"></a>
@@ -102,6 +100,6 @@ If you like this project give it a star!!!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/lucy-sees/Webforlio/blob/d3ad7276290d3f8ca737ca792c92f18fed58845c/LICENSE) licensed.
+This project is [MIT](https://github.com/lucy-sees/Survey-Form/blob/c46a9134fd2b2ca75893d60b543ce6c4c5241233/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
