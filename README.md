@@ -25,9 +25,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Portfolio: setup and mobile first] <a name="about-project"></a>
+# 📖 Survey Form <a name="about-project"></a>
 
-**[Portfolio: setup and mobile first]** A captivating Survey Form powered by HTML and CSS.
+**Survey Form** A captivating Survey Form powered by HTML and CSS.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -40,7 +40,6 @@
     <li><a href="https://www.css3.com/">CSS</a></li>
   </ul>
 </details>
-
 ### Key Features <a name="key-features"></a>
 
 -Displays a survey form.
